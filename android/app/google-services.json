@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "580078631980",
+    "firebase_url": "https://flutter-prep-304c8-default-rtdb.firebaseio.com",
+    "project_id": "flutter-prep-304c8",
+    "storage_bucket": "flutter-prep-304c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580078631980:android:b700863ef3c61916bc2589",
+        "android_client_info": {
+          "package_name": "com.ayman.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7i-shqwq9XoI9Te6kCBu5kcW-P-AGh4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
